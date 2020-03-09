@@ -1,9 +1,9 @@
-<?php echo "hola"; ?>
+<?php //echo "hola"; ?>
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>imagine &mdash; Onepage Template by Colorlib</title>
+    <title>Inerxia Group &mdash; más allá de tu necesidad</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -56,33 +56,44 @@
         <div class="row align-items-center">
           
           <div class="col-6 col-md-3 col-xl-4  d-block">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">imagine<span class="text-primary">.</span> </a></h1>
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">Inerxia<span class="text-primary">.</span> </a></h1>
           </div>
 
           <div class="col-12 col-md-9 col-xl-8 main-menu">
             <nav class="site-navigation position-relative text-right" role="navigation">
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block ml-0 pl-0">
-                <li><a href="#home-section" class="nav-link">Home</a></li>
-                <li><a href="#features-section" class="nav-link">Features</a></li>
+                <li><a href="#home-section" class="nav-link">Root</a></li>
+                <li><a href="#features-section" class="nav-link">Atributos</a></li>
                 <li class="has-children">
-                  <a href="#about-section" class="nav-link">About Us</a>
+                  <a href="#about-section" class="nav-link">Hacemos</a>
                   <ul class="dropdown arrow-top">
-                    <li><a href="#" target="_blank" class="nav-link"><span class="text-primary">More Free Templates</span></a></li>
-                    <li><a href="#our-team-section" class="nav-link">Our Team</a></li>
+                    <li><a href="#" target="_blank" class="nav-link"><span class="text-primary">Consultoria</span></a></li>
+                    <li><a href="#our-team-section" class="nav-link">Analisis de datos</a></li>
                     <li class="has-children">
-                      <a href="#">More Links</a>
+                      <a href="#">Software</a>
                       <ul class="dropdown">
-                        <li><a href="#">Menu One</a></li>
-                        <li><a href="#">Menu Two</a></li>
-                        <li><a href="#">Menu Three</a></li>
+                        <li><a href="#">Web Apps</a></li>
+                        <li><a href="#">Apps Movil</a></li>
+                        <li><a href="#">Desktop apps</a></li>
+                        <li><a href="#">RPA</a></li>
+                        <li><a href="#">Aplicaciones bajo nivel</a></li>
                       </ul>
                     </li>
+                     <li class="has-children">
+                      <a href="#">Diseño y multimedia</a>
+                      <ul class="dropdown">
+                        <li><a href="#">Imagen corporativa</a></li>
+                        <li><a href="#">Diseño de video publicitario</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="#our-team-section" class="nav-link">BPO sistemas y telecomunicaciones</a></li>
+
                   </ul>
                 </li>
-                <li><a href="#testimonials-section" class="nav-link">Testimonials</a></li>
-                <li><a href="#blog-section" class="nav-link">Blog</a></li>
-                <li><a href="#contact-section" class="nav-link">Contact</a></li>
+                <li><a href="#testimonials-section" class="nav-link">Comentarios</a></li>
+                <li><a href="#blog-section" class="nav-link">Nuestro equipo</a></li>
+                <li><a href="#contact-section" class="nav-link">Contactanos</a></li>
               </ul>
             </nav>
           </div>
@@ -106,10 +117,10 @@
 
             <div class="row mb-4" data-aos="fade-up" data-aos-delay="200">
               <div class="col-lg-6 mr-auto">
-                <h1>Make Your Business More Profitable</h1>
-                <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam assumenda ea quo cupiditate facere deleniti fuga officia.</p>
+                <h1>Hacemos más que una aplicación</h1>
+                <p class="mb-5">En inerxia group fabricamos software con los más altos estandares de calidad y sobre todo con las tecnologías de punta. (Eso solo un ejemplo)</p>
                 <div>
-                  <a href="#" class="btn btn-primary mr-2 mb-2">Get Started</a>
+                  <a href="#" class="btn btn-primary mr-2 mb-2">Cuentanos el cuento</a>
                 </div>
               </div>
               
@@ -126,8 +137,8 @@
       <div class="container">
         <div class="row mb-5 justify-content-center text-center"  data-aos="fade-up">
           <div class="col-7 text-center  mb-5">
-            <h2 class="section-title">Imagine Features</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga quos quaerat sapiente nam, id vero.</p>
+            <h2 class="section-title">Atributos de inerxia</h2>
+            <p class="lead">Descubre porque nos prefieren.</p>
           </div>
         </div>
         <div class="row align-items-stretch">
@@ -138,7 +149,7 @@
                 <span class="icon-wrap"><span class="text-primary icon-autorenew"></span></span>
               </div>
               <div>
-                <h3>Marketing Consulting</h3>
+                <h3>Soporte continuo</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -152,7 +163,7 @@
                 <span class="icon-wrap"><span class="text-primary icon-store_mall_directory"></span></span>
               </div>
               <div>
-                <h3>Market Analysis</h3>
+                <h3>Comunicación constante</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -164,7 +175,7 @@
                 <span class="icon-wrap"><span class="text-primary icon-shopping_basket"></span></span>
               </div>
               <div>
-                <h3>Easy Purchase</h3>
+                <h3>Ultimas tecnologías</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -178,7 +189,7 @@
                 <span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"></span></span>
               </div>
               <div>
-                <h3>Free Updates</h3>
+                <h3>Actualizaciones gratis</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -191,7 +202,7 @@
                 <span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"></span></span>
               </div>
               <div>
-                <h3>100% Satistified</h3>
+                <h3>Satisfacción en un 95%</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -206,7 +217,7 @@
                 <span class="icon-wrap"><span class="text-primary icon-power"></span></span>
               </div>
               <div>
-                <h3>Easy Plugin</h3>
+                <h3>Vamos más allá</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
