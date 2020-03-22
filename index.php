@@ -117,7 +117,7 @@
 
             <div class="row mb-4" data-aos="fade-up" data-aos-delay="200">
               <div class="col-lg-6 mr-auto">
-                <h1>Hacemos más que unas aplicaciones esteban 2</h1>
+                <h1>Hacemos más que unas aplicaciones esteban 2222</h1>
                 <p class="mb-5">En inerxia group fabricamos software con los más altos estandares de calidad y sobre todo con las tecnologías de punta. (Eso solo un ejemplo)</p>
                 <div>
                   <a href="#" class="btn btn-primary mr-2 mb-2">Cuentanos el cuento</a>
